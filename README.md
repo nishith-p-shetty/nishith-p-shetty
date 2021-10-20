@@ -52,20 +52,19 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+### ⚡ Recent GitHub Activity
   
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-</details>
+---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+### ⚡ GitHub Stats
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="Nishith's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nishith-p-shetty&show_icons=true&hide_border=true&count_private=true&theme=github_dark" />
 
-</details>
+  <img align="left" alt="Nishith's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishith-p-shetty&langs_count=50&layout=compact&show_icons=true&hide_border=true&count_private=true&theme=github_dark" />
+  
 
 [website]: https://nishithpshetty.tk
 [course]: http://vsCodeHero.com
