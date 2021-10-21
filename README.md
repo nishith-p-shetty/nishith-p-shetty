@@ -46,11 +46,6 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Growing Mushrooms at Home | Part 2 | Spore Syringe](https://www.youtube.com/watch?v=erEWEU-0HjU)
-- [Growing Mushrooms at home | Part 1 | Collecting Spore](https://www.youtube.com/watch?v=-4aouaeyW84)
-- [Homemade puppy dress.......|30 days old...🤯!!](https://www.youtube.com/watch?v=YsD1-IPTYwQ)
-- [Cute Golden Retriever puppy training....!🤯|60 days old](https://www.youtube.com/watch?v=G4nENp2GNJ4)
-- [Atma Nirbhar Bharat | Is it possible | must watch | #BoycottChaina](https://www.youtube.com/watch?v=ep7S2jG-UG8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://)
