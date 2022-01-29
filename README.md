@@ -77,4 +77,4 @@
 [twitter]: https://twitter.com/NishithPShetty
 [youtube]: https://
 [instagram]: https://www.instagram.com/nishith.p.shetty
-[linkedin]: https://www.linkedin.com/in/nishith-p-shetty-32a569204
+[linkedin]: https://www.linkedin.com/in/nishith-p-shetty
