@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=nishithpshetty.tk&style=for-the-badge&url=https%3A%2F%2Fnishithpshetty.tk)](https://nishithpshetty.tk)
 [![Twitter Follow](https://img.shields.io/twitter/follow/NishithPShetty?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FNishithPShetty&screen_name=NishithPShetty)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=nishith-p-shetty.nishith-p-shetty)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=nishith-p-shetty)
 
 ## I'm a Dev.🧑‍💻, and Etc...!!
 
