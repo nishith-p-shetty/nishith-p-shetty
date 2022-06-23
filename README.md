@@ -4,7 +4,7 @@
 
 ---
 
-# I'm a Dev.🧑‍💻, and Etc...!!
+# I'm a Dev.🧑‍💻, and Etc😂...!!
 * 🌱 I’m currently learning everything 🤣
 * 👯 I’m looking to collaborate with other devolopers
 * 🥅 2022 Goals: Contribute more to Open Source projects
