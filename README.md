@@ -46,8 +46,8 @@
 ### ⚡ Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#47](https://github.com/SahityaRoy/E-Learning-freesite/issues/47) in [SahityaRoy/E-Learning-freesite](https://github.com/SahityaRoy/E-Learning-freesite)
-2. 💪 Opened PR [#106](https://github.com/ron2111/Hacktoberfest2021_awesome-projects/pull/106) in [ron2111/Hacktoberfest2021_awesome-projects](https://github.com/ron2111/Hacktoberfest2021_awesome-projects)
+1. 🎉 Merged PR [#1](https://github.com/nishith-p-shetty/todo-task/pull/1) in [nishith-p-shetty/todo-task](https://github.com/nishith-p-shetty/todo-task)
+2. 🗣 Commented on [#47](https://github.com/SahityaRoy/E-Learning-freesite/issues/47) in [SahityaRoy/E-Learning-freesite](https://github.com/SahityaRoy/E-Learning-freesite)
 3. 💪 Opened PR [#64](https://github.com/SahityaRoy/E-Learning-freesite/pull/64) in [SahityaRoy/E-Learning-freesite](https://github.com/SahityaRoy/E-Learning-freesite)
 4. 🗣 Commented on [#62](https://github.com/SahityaRoy/E-Learning-freesite/issues/62) in [SahityaRoy/E-Learning-freesite](https://github.com/SahityaRoy/E-Learning-freesite)
 5. 🗣 Commented on [#62](https://github.com/SahityaRoy/E-Learning-freesite/issues/62) in [SahityaRoy/E-Learning-freesite](https://github.com/SahityaRoy/E-Learning-freesite)
