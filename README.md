@@ -23,14 +23,15 @@
 ---
 
 # 📊GitHub Stats :
-![](https://nps-github-readme-stats.vercel.app/api?username=nishith-p-shetty&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nps-github-readme-stats.vercel.app/api?username=nishith-p-shetty&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nps-github-readme-streak-stats.herokuapp.com/?user=nishith-p-shetty&theme=blue-green&hide_border=false)<br/>
 ![](https://nps-github-readme-stats.vercel.app/api/top-langs/?username=nishith-p-shetty&langs_count=100&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ---
 
 ## 🏆GitHub Trophies
-![](https://nps-github-profile-trophy.vercel.app/?username=nishith-p-shetty&theme=darkhub&no-frame=false&no-bg=false&margin-w=6)
+![](https://nps-github-profile-trophy.vercel.app/?username=nishith-p-shetty&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
