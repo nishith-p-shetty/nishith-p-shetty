@@ -30,7 +30,7 @@
 ---
 
 ## 🏆GitHub Trophies
-![](https://nps-github-profile-trophy.vercel.app/?username=nishith-p-shetty&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+![](https://nps-github-profile-trophy.vercel.app/?username=nishith-p-shetty&theme=darkhub&no-frame=false&no-bg=false&margin-w=6)
 
 ---
 
