@@ -23,14 +23,15 @@
 ---
 
 # 📊GitHub Stats :
-![](https://nps-github-readme-stats.vercel.app/api?username=nishith-p-shetty&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nps-github-readme-streak-stats.herokuapp.com/?user=nishith-p-shetty&theme=blue-green&hide_border=false)<br/>
-![](https://nps-github-readme-stats.vercel.app/api/top-langs/?username=nishith-p-shetty&langs_count=100&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://nps-github-readme-stats.vercel.app/api?username=nishith-p-shetty&theme=blue-green&hide_border=true&border_radius=20&include_all_commits=true&count_private=true)
+![](https://nps-github-readme-streak-stats.herokuapp.com/?user=nishith-p-shetty&theme=blue-green&hide_border=true)<br/>
+![](https://nps-github-readme-stats.vercel.app/api/top-langs/?username=nishith-p-shetty&langs_count=100&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=20)
+
 
 ---
 
 ## 🏆GitHub Trophies
-![](https://nps-github-profile-trophy.vercel.app/?username=nishith-p-shetty&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+![](https://nps-github-profile-trophy.vercel.app/?username=nishith-p-shetty&theme=darkhub&no-frame=true&no-bg=false)
 
 ---
 
@@ -46,10 +47,10 @@
 ### ⚡ Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/nishith-p-shetty/todo-task/pull/2) in [nishith-p-shetty/todo-task](https://github.com/nishith-p-shetty/todo-task)
-2. 🎉 Merged PR [#1](https://github.com/nishith-p-shetty/todo-task/pull/1) in [nishith-p-shetty/todo-task](https://github.com/nishith-p-shetty/todo-task)
-3. 🗣 Commented on [#47](https://github.com/SahityaRoy/E-Learning-freesite/issues/47) in [SahityaRoy/E-Learning-freesite](https://github.com/SahityaRoy/E-Learning-freesite)
-4. 🗣 Commented on [#62](https://github.com/SahityaRoy/E-Learning-freesite/issues/62) in [SahityaRoy/E-Learning-freesite](https://github.com/SahityaRoy/E-Learning-freesite)
+1. 🎉 Merged PR [#1](https://github.com/nishith-p-shetty/TickTackToe/pull/1) in [nishith-p-shetty/TickTackToe](https://github.com/nishith-p-shetty/TickTackToe)
+2. 🎉 Merged PR [#2](https://github.com/nishith-p-shetty/todo-task/pull/2) in [nishith-p-shetty/todo-task](https://github.com/nishith-p-shetty/todo-task)
+3. 🎉 Merged PR [#1](https://github.com/nishith-p-shetty/todo-task/pull/1) in [nishith-p-shetty/todo-task](https://github.com/nishith-p-shetty/todo-task)
+4. 🗣 Commented on [#47](https://github.com/SahityaRoy/E-Learning-freesite/issues/47) in [SahityaRoy/E-Learning-freesite](https://github.com/SahityaRoy/E-Learning-freesite)
 5. 🗣 Commented on [#62](https://github.com/SahityaRoy/E-Learning-freesite/issues/62) in [SahityaRoy/E-Learning-freesite](https://github.com/SahityaRoy/E-Learning-freesite)
 <!--END_SECTION:activity-->
 
