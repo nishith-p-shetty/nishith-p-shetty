@@ -47,10 +47,10 @@
 ### ⚡ Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/nishith-p-shetty/todo-task/pull/2) in [nishith-p-shetty/todo-task](https://github.com/nishith-p-shetty/todo-task)
-2. 🎉 Merged PR [#1](https://github.com/nishith-p-shetty/todo-task/pull/1) in [nishith-p-shetty/todo-task](https://github.com/nishith-p-shetty/todo-task)
-3. 🗣 Commented on [#47](https://github.com/SahityaRoy/E-Learning-freesite/issues/47) in [SahityaRoy/E-Learning-freesite](https://github.com/SahityaRoy/E-Learning-freesite)
-4. 🗣 Commented on [#62](https://github.com/SahityaRoy/E-Learning-freesite/issues/62) in [SahityaRoy/E-Learning-freesite](https://github.com/SahityaRoy/E-Learning-freesite)
+1. 🎉 Merged PR [#1](https://github.com/nishith-p-shetty/TickTackToe/pull/1) in [nishith-p-shetty/TickTackToe](https://github.com/nishith-p-shetty/TickTackToe)
+2. 🎉 Merged PR [#2](https://github.com/nishith-p-shetty/todo-task/pull/2) in [nishith-p-shetty/todo-task](https://github.com/nishith-p-shetty/todo-task)
+3. 🎉 Merged PR [#1](https://github.com/nishith-p-shetty/todo-task/pull/1) in [nishith-p-shetty/todo-task](https://github.com/nishith-p-shetty/todo-task)
+4. 🗣 Commented on [#47](https://github.com/SahityaRoy/E-Learning-freesite/issues/47) in [SahityaRoy/E-Learning-freesite](https://github.com/SahityaRoy/E-Learning-freesite)
 5. 🗣 Commented on [#62](https://github.com/SahityaRoy/E-Learning-freesite/issues/62) in [SahityaRoy/E-Learning-freesite](https://github.com/SahityaRoy/E-Learning-freesite)
 <!--END_SECTION:activity-->
 
