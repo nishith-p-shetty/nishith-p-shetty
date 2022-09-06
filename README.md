@@ -1,6 +1,6 @@
 ### Hi there, I'm Shetty - aka [Nishith P Shetty][website] 👋
 [website]: https://nishithpshetty.tk
-![](https://visitcount.itsvg.in/api?id=nishith-p-shetty&icon=3&color=6)
+![](https://visit-counter.nps1.workers.dev/api?name=nishith-p-shetty&operation=increment)
 
 ---
 
