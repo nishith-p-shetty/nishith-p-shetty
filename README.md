@@ -47,11 +47,11 @@
 ### ⚡ Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#321](https://github.com/DenverCoder1/github-readme-streak-stats/issues/321) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-2. ❌ Closed PR [#321](https://github.com/DenverCoder1/github-readme-streak-stats/pull/321) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-3. 💪 Opened PR [#321](https://github.com/DenverCoder1/github-readme-streak-stats/pull/321) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-4. 🎉 Merged PR [#1](https://github.com/nishith-p-shetty/TickTackToe/pull/1) in [nishith-p-shetty/TickTackToe](https://github.com/nishith-p-shetty/TickTackToe)
-5. 🎉 Merged PR [#2](https://github.com/nishith-p-shetty/todo-task/pull/2) in [nishith-p-shetty/todo-task](https://github.com/nishith-p-shetty/todo-task)
+1. 💪 Opened PR [#322](https://github.com/DenverCoder1/github-readme-streak-stats/pull/322) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+2. 🗣 Commented on [#318](https://github.com/DenverCoder1/github-readme-streak-stats/issues/318) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+3. 🗣 Commented on [#321](https://github.com/DenverCoder1/github-readme-streak-stats/issues/321) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+4. ❌ Closed PR [#321](https://github.com/DenverCoder1/github-readme-streak-stats/pull/321) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+5. 💪 Opened PR [#321](https://github.com/DenverCoder1/github-readme-streak-stats/pull/321) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 <!--END_SECTION:activity-->
 
 ---
