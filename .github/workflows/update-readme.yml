@@ -14,3 +14,6 @@ jobs:
       - uses: nishith-p-shetty/github-activity-readme@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: '⚡ Recent GitHub Activity'
+          MAX_LINES: 10
