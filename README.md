@@ -1,6 +1,10 @@
-<!--### Hi there, I'm Shetty - aka [Nishith P Shetty][website] 👋-->
-![(https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=1000&pause=1000&color=00FF00&center=true&vCenter=true&width=550&lines=Hi+there%2C+I%27m+Shetty+-+aka+Nishith+P+Shetty+%F0%9F%91%8B)][website]
+<!--
+### Hi there, I'm Shetty - aka [Nishith P Shetty][website] 👋
+-->
+[![Greetings](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=1000&pause=1000&color=00FF00&center=true&vCenter=true&width=550&lines=Hi+there%2C+I%27m+Shetty+-+aka+Nishith+P+Shetty+%F0%9F%91%8B)](https://nishithpshetty.tk)
+<!--
 [website]: https://nishithpshetty.tk
+-->
 ![](https://visitcount.itsvg.in/api?id=nishith-p-shetty&icon=3&color=6)
 
 ---
