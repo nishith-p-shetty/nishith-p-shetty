@@ -21,8 +21,10 @@
 ![](https://readme-stats.nishithpshetty.tk/api/pin/?username=nishith-p-shetty&repo=Live-Group-Chat&theme=blue-green&hide_border=true&border_radius=20&show_icons=true)
 ![](https://readme-stats.nishithpshetty.tk/api/pin/?username=nishith-p-shetty&repo=flask-blog&theme=blue-green&hide_border=true&border_radius=20&show_icons=true)
 ![](https://readme-stats.nishithpshetty.tk/api/pin/?username=nishith-p-shetty&repo=speedtest&theme=blue-green&hide_border=true&border_radius=20&show_icons=true)
+<!--
 ![](https://readme-stats.nishithpshetty.tk/api/pin/?username=nishith-p-shetty&repo=VTU-Results-Bot&theme=blue-green&hide_border=true&border_radius=20&show_icons=true)
 ![](https://readme-stats.nishithpshetty.tk/api/pin/?username=nishith-p-shetty&repo=GAT-Results-Bot&theme=blue-green&hide_border=true&border_radius=20&show_icons=true)
+-->
 
 ---
 
