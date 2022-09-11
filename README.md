@@ -24,7 +24,7 @@
 
 # 📊GitHub Stats :
 ![](https://nps-github-readme-stats.vercel.app/api?username=nishith-p-shetty&theme=blue-green&hide_border=true&border_radius=20&include_all_commits=true&count_private=true)
-![](https://nps-github-readme-streak-stats.herokuapp.com/?user=nishith-p-shetty&theme=blue-green&hide_border=true)<br/>
+![](https://nps-github-readme-streak-stats.herokuapp.com/?user=nishith-p-shetty&theme=blue-green&hide_border=true&border_radius=20)<br/>
 ![](https://nps-github-readme-stats.vercel.app/api/top-langs/?username=nishith-p-shetty&langs_count=100&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=20)
 
 
