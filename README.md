@@ -57,15 +57,6 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://www.youtube.com/channel/UCEQ_b6AAedG3RuvY6FEk8Kw)
-
----
-
 ### ⚡ Recent GitHub Activity
   
 <!--START_SECTION:activity-->
@@ -75,5 +66,21 @@
 4. 🗣 Commented on [#326](https://github.com/DenverCoder1/github-readme-streak-stats/issues/326) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 5. 🗣 Commented on [#326](https://github.com/DenverCoder1/github-readme-streak-stats/issues/326) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 <!--END_SECTION:activity-->
+
+---
+
+# StackOverflow Activity
+
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
+
+---
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://www.youtube.com/channel/UCEQ_b6AAedG3RuvY6FEk8Kw)
 
 ---
