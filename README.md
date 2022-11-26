@@ -1,7 +1,7 @@
 <!--
 ### Hi there, I'm Shetty - aka [Nishith P Shetty][website] 👋
 -->
-[![Greetings](https://nps-readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=1000&pause=1000&color=00FF00&center=true&vCenter=true&width=550&lines=Hi+there%2C+I%27m+Shetty+-+aka+Nishith+P+Shetty+%F0%9F%91%8B)](https://nishithpshetty.tk)
+[![Greetings](https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=1000&pause=1000&color=00FF00&center=true&vCenter=true&width=550&lines=Hi+there%2C+I%27m+Shetty+-+aka+Nishith+P+Shetty+%F0%9F%91%8B)](https://nishithpshetty.tk)
 <!--
 [website]: https://nishithpshetty.tk
 -->
@@ -45,7 +45,7 @@
 
 # 📊GitHub Stats :
 ![](https://readme-stats.nishithpshetty.tk/api?username=nishith-p-shetty&theme=blue-green&hide_border=true&border_radius=20&include_all_commits=true&count_private=true)
-![](https://nps-github-readme-streak-stats.herokuapp.com/?user=nishith-p-shetty&theme=blue-green&hide_border=true&border_radius=20)<br/>
+![](https://streak-stats.demolab.com/?user=nishith-p-shetty&theme=blue-green&hide_border=true&border_radius=20)<br/>
 ![](https://readme-stats.nishithpshetty.tk/api/top-langs/?username=nishith-p-shetty&langs_count=100&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=20)
 ![](https://graph.nishithpshetty.tk/graph?username=nishith-p-shetty&bg_color=000000&color=33ccff&line=00ff00&point=ff0000&area=true&hide_border=true)
 
