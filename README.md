@@ -60,8 +60,8 @@
 ### ⚡ Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#326](https://github.com/DenverCoder1/github-readme-streak-stats/issues/326) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-2. 🗣 Commented on [#326](https://github.com/DenverCoder1/github-readme-streak-stats/issues/326) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+1. 🗣 Commented on [#1355](https://github.com/elebumm/RedditVideoMakerBot/issues/1355) in [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
+2. ❗️ Opened issue [#1355](https://github.com/elebumm/RedditVideoMakerBot/issues/1355) in [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
 3. 🗣 Commented on [#326](https://github.com/DenverCoder1/github-readme-streak-stats/issues/326) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 4. 🗣 Commented on [#326](https://github.com/DenverCoder1/github-readme-streak-stats/issues/326) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 5. 🗣 Commented on [#326](https://github.com/DenverCoder1/github-readme-streak-stats/issues/326) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
