@@ -60,10 +60,10 @@
 ### ⚡ Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1355](https://github.com/elebumm/RedditVideoMakerBot/issues/1355) in [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
-2. ❗️ Opened issue [#1355](https://github.com/elebumm/RedditVideoMakerBot/issues/1355) in [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
-3. 🗣 Commented on [#326](https://github.com/DenverCoder1/github-readme-streak-stats/issues/326) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-4. 🗣 Commented on [#326](https://github.com/DenverCoder1/github-readme-streak-stats/issues/326) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+1. 💪 Opened PR [#180](https://github.com/Ashutosh00710/github-readme-activity-graph/pull/180) in [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
+2. 🗣 Commented on [#175](https://github.com/Ashutosh00710/github-readme-activity-graph/issues/175) in [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
+3. 🗣 Commented on [#1355](https://github.com/elebumm/RedditVideoMakerBot/issues/1355) in [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
+4. ❗️ Opened issue [#1355](https://github.com/elebumm/RedditVideoMakerBot/issues/1355) in [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
 5. 🗣 Commented on [#326](https://github.com/DenverCoder1/github-readme-streak-stats/issues/326) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 <!--END_SECTION:activity-->
 
