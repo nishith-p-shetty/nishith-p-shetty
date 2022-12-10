@@ -5,7 +5,7 @@
 <!--
 [website]: https://nishithpshetty.tk
 -->
-![](https://visitcount.itsvg.in/api?id=nishith-p-shetty&icon=3&color=6)
+![](https://visitcount.itsvg.in/api?id=nishith-p-shetty&label=Views&color=6&icon=2&pretty=false)
 
 ---
 
