@@ -19,17 +19,17 @@
 
 ## 📘 My top open source projects
 
-![](https://readme-stats.nishithpshetty.tk/api/pin/?username=nishith-p-shetty&repo=visitor-counter&theme=blue-green&hide_border=true&border_radius=20&show_icons=true)
-![](https://readme-stats.nishithpshetty.tk/api/pin/?username=nishith-p-shetty&repo=todo-task&theme=blue-green&hide_border=true&border_radius=20&show_icons=true)
-![](https://readme-stats.nishithpshetty.tk/api/pin/?username=nishith-p-shetty&repo=insta-user-list&theme=blue-green&hide_border=true&border_radius=20&show_icons=true)
-![](https://readme-stats.nishithpshetty.tk/api/pin/?username=nishith-p-shetty&repo=YT-ShortsToLongForm&theme=blue-green&hide_border=true&border_radius=20&show_icons=true)
-![](https://readme-stats.nishithpshetty.tk/api/pin/?username=nishith-p-shetty&repo=Matrix&theme=blue-green&hide_border=true&border_radius=20&show_icons=true)
-![](https://readme-stats.nishithpshetty.tk/api/pin/?username=nishith-p-shetty&repo=Live-Group-Chat&theme=blue-green&hide_border=true&border_radius=20&show_icons=true)
-![](https://readme-stats.nishithpshetty.tk/api/pin/?username=nishith-p-shetty&repo=flask-blog&theme=blue-green&hide_border=true&border_radius=20&show_icons=true)
-![](https://readme-stats.nishithpshetty.tk/api/pin/?username=nishith-p-shetty&repo=speedtest&theme=blue-green&hide_border=true&border_radius=20&show_icons=true)
+[![](https://readme-stats.nishithpshetty.tk/api/pin/?username=nishith-p-shetty&repo=visitor-counter&theme=blue-green&hide_border=true&border_radius=20&show_icons=true)](https://github.com/nishith-p-shetty/visitor-counter)
+[![](https://readme-stats.nishithpshetty.tk/api/pin/?username=nishith-p-shetty&repo=todo-task&theme=blue-green&hide_border=true&border_radius=20&show_icons=true)](https://github.com/nishith-p-shetty/todo-task)
+[![](https://readme-stats.nishithpshetty.tk/api/pin/?username=nishith-p-shetty&repo=insta-user-list&theme=blue-green&hide_border=true&border_radius=20&show_icons=true)](https://github.com/nishith-p-shetty/insta-user-list)
+[![](https://readme-stats.nishithpshetty.tk/api/pin/?username=nishith-p-shetty&repo=YT-ShortsToLongForm&theme=blue-green&hide_border=true&border_radius=20&show_icons=true)](https://github.com/nishith-p-shetty/YT-ShortsToLongForm)
+[![](https://readme-stats.nishithpshetty.tk/api/pin/?username=nishith-p-shetty&repo=Matrix&theme=blue-green&hide_border=true&border_radius=20&show_icons=true)](https://github.com/nishith-p-shetty/Matrix)
+[![](https://readme-stats.nishithpshetty.tk/api/pin/?username=nishith-p-shetty&repo=Live-Group-Chat&theme=blue-green&hide_border=true&border_radius=20&show_icons=true)](https://github.com/nishith-p-shetty/Live-Group-Chat)
+[![](https://readme-stats.nishithpshetty.tk/api/pin/?username=nishith-p-shetty&repo=flask-blog&theme=blue-green&hide_border=true&border_radius=20&show_icons=true)](https://github.com/nishith-p-shetty/flask-blog)
+[![](https://readme-stats.nishithpshetty.tk/api/pin/?username=nishith-p-shetty&repo=speedtest&theme=blue-green&hide_border=true&border_radius=20&show_icons=true)](https://github.com/nishith-p-shetty/speedtest)
+[![](https://readme-stats.nishithpshetty.tk/api/pin/?username=nishith-p-shetty&repo=VTU-Results-Bot&theme=blue-green&hide_border=true&border_radius=20&show_icons=true)](https://github.com/nishith-p-shetty/VTU-Results-Bot)
 <!--
-![](https://readme-stats.nishithpshetty.tk/api/pin/?username=nishith-p-shetty&repo=VTU-Results-Bot&theme=blue-green&hide_border=true&border_radius=20&show_icons=true)
-![](https://readme-stats.nishithpshetty.tk/api/pin/?username=nishith-p-shetty&repo=GAT-Results-Bot&theme=blue-green&hide_border=true&border_radius=20&show_icons=true)
+[![](https://readme-stats.nishithpshetty.tk/api/pin/?username=nishith-p-shetty&repo=GAT-Results-Bot&theme=blue-green&hide_border=true&border_radius=20&show_icons=true)](https://github.com/nishith-p-shetty/GAT-Results-Bot)
 -->
 
 ---
