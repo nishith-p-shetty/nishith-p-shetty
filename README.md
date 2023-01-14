@@ -91,6 +91,7 @@ JavaScript       11 mins         ▓░░░░░░░░░░░░░░�
 # StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
+- [✘ [ERROR] Could not resolve &quot;async_hooks&quot;](https://stackoverflow.com/questions/75111375/error-could-not-resolve-async-hooks)
 - [Error: Unable to rebuild apk with apktool](https://stackoverflow.com/questions/65509607/error-unable-to-rebuild-apk-with-apktool)
 - [Answer by Nishith P Shetty for The requested path Access is Denied](https://stackoverflow.com/questions/64241896/the-requested-path-access-is-denied/64242800#64242800)
 - [The requested path Access is Denied](https://stackoverflow.com/questions/64241896/the-requested-path-access-is-denied)
