@@ -79,11 +79,11 @@ XML              20 mins         ▓░░░░░░░░░░░░░░�
 ### ⚡ Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/techiesms/Multipurpose-IoT-Tracker-/pull/1) in [techiesms/Multipurpose-IoT-Tracker-](https://github.com/techiesms/Multipurpose-IoT-Tracker-)
-2. 💪 Opened PR [#1012](https://github.com/airqo-platform/AirQo-frontend/pull/1012) in [airqo-platform/AirQo-frontend](https://github.com/airqo-platform/AirQo-frontend)
-3. 🗣 Commented on [#49](https://github.com/theritikchoure/carrierjs/issues/49) in [theritikchoure/carrierjs](https://github.com/theritikchoure/carrierjs)
-4. 💪 Opened PR [#49](https://github.com/theritikchoure/carrierjs/pull/49) in [theritikchoure/carrierjs](https://github.com/theritikchoure/carrierjs)
-5. 🗣 Commented on [#1051](https://github.com/apache/streampipes/issues/1051) in [apache/streampipes](https://github.com/apache/streampipes)
+1. ❌ Closed PR [#1](https://github.com/techiesms/Multipurpose-IoT-Tracker-/pull/1) in [techiesms/Multipurpose-IoT-Tracker-](https://github.com/techiesms/Multipurpose-IoT-Tracker-)
+2. 💪 Opened PR [#1](https://github.com/techiesms/Multipurpose-IoT-Tracker-/pull/1) in [techiesms/Multipurpose-IoT-Tracker-](https://github.com/techiesms/Multipurpose-IoT-Tracker-)
+3. 💪 Opened PR [#1012](https://github.com/airqo-platform/AirQo-frontend/pull/1012) in [airqo-platform/AirQo-frontend](https://github.com/airqo-platform/AirQo-frontend)
+4. 🗣 Commented on [#49](https://github.com/theritikchoure/carrierjs/issues/49) in [theritikchoure/carrierjs](https://github.com/theritikchoure/carrierjs)
+5. 💪 Opened PR [#49](https://github.com/theritikchoure/carrierjs/pull/49) in [theritikchoure/carrierjs](https://github.com/theritikchoure/carrierjs)
 <!--END_SECTION:activity-->
 
 ---
