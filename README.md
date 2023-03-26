@@ -79,11 +79,11 @@ Java               1 hr 52 mins    █░░░░░░░░░░░░░░
 ### ⚡ Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/BhuvanSA/ML-RockPaperScissor/pull/1) in [BhuvanSA/ML-RockPaperScissor](https://github.com/BhuvanSA/ML-RockPaperScissor)
-2. ❌ Closed PR [#1](https://github.com/techiesms/Multipurpose-IoT-Tracker-/pull/1) in [techiesms/Multipurpose-IoT-Tracker-](https://github.com/techiesms/Multipurpose-IoT-Tracker-)
-3. 💪 Opened PR [#1](https://github.com/techiesms/Multipurpose-IoT-Tracker-/pull/1) in [techiesms/Multipurpose-IoT-Tracker-](https://github.com/techiesms/Multipurpose-IoT-Tracker-)
-4. 💪 Opened PR [#1012](https://github.com/airqo-platform/AirQo-frontend/pull/1012) in [airqo-platform/AirQo-frontend](https://github.com/airqo-platform/AirQo-frontend)
-5. 🗣 Commented on [#49](https://github.com/theritikchoure/carrierjs/issues/49) in [theritikchoure/carrierjs](https://github.com/theritikchoure/carrierjs)
+1. 🎉 Merged PR [#2](https://github.com/nishith-p-shetty/flask-feedback-form/pull/2) in [nishith-p-shetty/flask-feedback-form](https://github.com/nishith-p-shetty/flask-feedback-form)
+2. 🎉 Merged PR [#1](https://github.com/nishith-p-shetty/flask-feedback-form/pull/1) in [nishith-p-shetty/flask-feedback-form](https://github.com/nishith-p-shetty/flask-feedback-form)
+3. 💪 Opened PR [#1](https://github.com/BhuvanSA/ML-RockPaperScissor/pull/1) in [BhuvanSA/ML-RockPaperScissor](https://github.com/BhuvanSA/ML-RockPaperScissor)
+4. ❌ Closed PR [#1](https://github.com/techiesms/Multipurpose-IoT-Tracker-/pull/1) in [techiesms/Multipurpose-IoT-Tracker-](https://github.com/techiesms/Multipurpose-IoT-Tracker-)
+5. 💪 Opened PR [#1](https://github.com/techiesms/Multipurpose-IoT-Tracker-/pull/1) in [techiesms/Multipurpose-IoT-Tracker-](https://github.com/techiesms/Multipurpose-IoT-Tracker-)
 <!--END_SECTION:activity-->
 
 ---
