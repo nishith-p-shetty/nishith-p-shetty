@@ -79,11 +79,11 @@ Java               1 hr 52 mins    █░░░░░░░░░░░░░░
 ### ⚡ Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/nishith-p-shetty/flask-feedback-form/pull/2) in [nishith-p-shetty/flask-feedback-form](https://github.com/nishith-p-shetty/flask-feedback-form)
-2. 🎉 Merged PR [#1](https://github.com/nishith-p-shetty/flask-feedback-form/pull/1) in [nishith-p-shetty/flask-feedback-form](https://github.com/nishith-p-shetty/flask-feedback-form)
-3. 💪 Opened PR [#1](https://github.com/BhuvanSA/ML-RockPaperScissor/pull/1) in [BhuvanSA/ML-RockPaperScissor](https://github.com/BhuvanSA/ML-RockPaperScissor)
-4. ❌ Closed PR [#1](https://github.com/techiesms/Multipurpose-IoT-Tracker-/pull/1) in [techiesms/Multipurpose-IoT-Tracker-](https://github.com/techiesms/Multipurpose-IoT-Tracker-)
-5. 💪 Opened PR [#1](https://github.com/techiesms/Multipurpose-IoT-Tracker-/pull/1) in [techiesms/Multipurpose-IoT-Tracker-](https://github.com/techiesms/Multipurpose-IoT-Tracker-)
+1. 🎉 Merged PR [#7](https://github.com/nishith-p-shetty/flask-feedback-form/pull/7) in [nishith-p-shetty/flask-feedback-form](https://github.com/nishith-p-shetty/flask-feedback-form)
+2. 🎉 Merged PR [#6](https://github.com/nishith-p-shetty/flask-feedback-form/pull/6) in [nishith-p-shetty/flask-feedback-form](https://github.com/nishith-p-shetty/flask-feedback-form)
+3. 🎉 Merged PR [#5](https://github.com/nishith-p-shetty/flask-feedback-form/pull/5) in [nishith-p-shetty/flask-feedback-form](https://github.com/nishith-p-shetty/flask-feedback-form)
+4. 🎉 Merged PR [#4](https://github.com/nishith-p-shetty/flask-feedback-form/pull/4) in [nishith-p-shetty/flask-feedback-form](https://github.com/nishith-p-shetty/flask-feedback-form)
+5. 🎉 Merged PR [#3](https://github.com/nishith-p-shetty/flask-feedback-form/pull/3) in [nishith-p-shetty/flask-feedback-form](https://github.com/nishith-p-shetty/flask-feedback-form)
 <!--END_SECTION:activity-->
 
 ---
