@@ -102,6 +102,8 @@ C                  4 hrs 34 mins   █░░░░░░░░░░░░░░
 
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
+<!-- Latest YOUTUBE Activity:START -->
+<!-- Latest YOUTUBE Activity:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCEQ_b6AAedG3RuvY6FEk8Kw)
 
