@@ -103,6 +103,7 @@ C                  4 hrs 34 mins   █░░░░░░░░░░░░░░
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 <!-- Latest YOUTUBE Activity:START -->
+- [Globally Extended Live Stream](https://www.youtube.com/watch?v=pwHhUK6PjCY)
 <!-- Latest YOUTUBE Activity:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCEQ_b6AAedG3RuvY6FEk8Kw)
