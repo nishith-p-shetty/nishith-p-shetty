@@ -78,8 +78,8 @@ C                  4 hrs 34 mins   █░░░░░░░░░░░░░░
 ### ⚡ Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/nishith-p-shetty/flask-feedback-form/pull/11) in [nishith-p-shetty/flask-feedback-form](https://github.com/nishith-p-shetty/flask-feedback-form)
-2. 🎉 Merged PR [#10](https://github.com/nishith-p-shetty/flask-feedback-form/pull/10) in [nishith-p-shetty/flask-feedback-form](https://github.com/nishith-p-shetty/flask-feedback-form)
+1. 💪 Opened PR [#1](https://github.com/BhuvanSA/WritePlus_ORA_AWS/pull/1) in [BhuvanSA/WritePlus_ORA_AWS](https://github.com/BhuvanSA/WritePlus_ORA_AWS)
+2. 🎉 Merged PR [#11](https://github.com/nishith-p-shetty/flask-feedback-form/pull/11) in [nishith-p-shetty/flask-feedback-form](https://github.com/nishith-p-shetty/flask-feedback-form)
 3. 🎉 Merged PR [#9](https://github.com/nishith-p-shetty/flask-feedback-form/pull/9) in [nishith-p-shetty/flask-feedback-form](https://github.com/nishith-p-shetty/flask-feedback-form)
 4. 🎉 Merged PR [#8](https://github.com/nishith-p-shetty/flask-feedback-form/pull/8) in [nishith-p-shetty/flask-feedback-form](https://github.com/nishith-p-shetty/flask-feedback-form)
 5. 🎉 Merged PR [#7](https://github.com/nishith-p-shetty/flask-feedback-form/pull/7) in [nishith-p-shetty/flask-feedback-form](https://github.com/nishith-p-shetty/flask-feedback-form)
