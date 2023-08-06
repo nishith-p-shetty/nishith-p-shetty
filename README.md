@@ -78,11 +78,11 @@ C                          4 hrs 34 mins   █░░░░░░░░░░░�
 ### ⚡ Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/BhuvanSA/WritePlus_ORA_AWS/pull/2) in [BhuvanSA/WritePlus_ORA_AWS](https://github.com/BhuvanSA/WritePlus_ORA_AWS)
-2. 🎉 Merged PR [#1](https://github.com/nishith-p-shetty/WritePlus_ORA_Frontend/pull/1) in [nishith-p-shetty/WritePlus_ORA_Frontend](https://github.com/nishith-p-shetty/WritePlus_ORA_Frontend)
-3. 💪 Opened PR [#1](https://github.com/BhuvanSA/WritePlus_ORA_AWS/pull/1) in [BhuvanSA/WritePlus_ORA_AWS](https://github.com/BhuvanSA/WritePlus_ORA_AWS)
-4. 🎉 Merged PR [#11](https://github.com/nishith-p-shetty/flask-feedback-form/pull/11) in [nishith-p-shetty/flask-feedback-form](https://github.com/nishith-p-shetty/flask-feedback-form)
-5. 🎉 Merged PR [#7](https://github.com/nishith-p-shetty/flask-feedback-form/pull/7) in [nishith-p-shetty/flask-feedback-form](https://github.com/nishith-p-shetty/flask-feedback-form)
+1. 💪 Opened PR [#4](https://github.com/BhuvanSA/WritePlus_ORA_AWS/pull/4) in [BhuvanSA/WritePlus_ORA_AWS](https://github.com/BhuvanSA/WritePlus_ORA_AWS)
+2. 💪 Opened PR [#3](https://github.com/BhuvanSA/WritePlus_ORA_AWS/pull/3) in [BhuvanSA/WritePlus_ORA_AWS](https://github.com/BhuvanSA/WritePlus_ORA_AWS)
+3. 🎉 Merged PR [#2](https://github.com/nishith-p-shetty/WritePlus_ORA_Frontend/pull/2) in [nishith-p-shetty/WritePlus_ORA_Frontend](https://github.com/nishith-p-shetty/WritePlus_ORA_Frontend)
+4. 💪 Opened PR [#2](https://github.com/BhuvanSA/WritePlus_ORA_AWS/pull/2) in [BhuvanSA/WritePlus_ORA_AWS](https://github.com/BhuvanSA/WritePlus_ORA_AWS)
+5. 🎉 Merged PR [#1](https://github.com/nishith-p-shetty/WritePlus_ORA_Frontend/pull/1) in [nishith-p-shetty/WritePlus_ORA_Frontend](https://github.com/nishith-p-shetty/WritePlus_ORA_Frontend)
 <!--END_SECTION:activity-->
 
 ---
