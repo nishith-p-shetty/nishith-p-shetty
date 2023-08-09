@@ -36,7 +36,7 @@
 
 ## 🌐Socials
 <p align="left">
-[![Website](https://img.shields.io/website?label=nishithpshetty.tk&style=for-the-badge&url=https%3A%2F%2Fnishithpshetty.tk)](https://nishithpshetty.tk)
+<a href="https://nishithpshetty.tk" target="blank"><img src="https://img.shields.io/website?label=nishithpshetty.tk&style=for-the-badge&url=https%3A%2F%2Fnishithpshetty.tk" alt="nishithpshetty.tk" /></a>
 <a href="https://twitter.com/nishithpshetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nishithpshetty" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nishith-p-shetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishith-p-shetty" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14085925" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14085925" height="30" width="40" /></a>
