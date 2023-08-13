@@ -90,11 +90,11 @@ CSS                        5 hrs 38 mins   █░░░░░░░░░░░�
 ### ⚡ Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/BhuvanSA/WritePlus_ORA_AWS/pull/6) in [BhuvanSA/WritePlus_ORA_AWS](https://github.com/BhuvanSA/WritePlus_ORA_AWS)
-2. 💪 Opened PR [#5](https://github.com/BhuvanSA/WritePlus_ORA_AWS/pull/5) in [BhuvanSA/WritePlus_ORA_AWS](https://github.com/BhuvanSA/WritePlus_ORA_AWS)
-3. 💪 Opened PR [#4](https://github.com/BhuvanSA/WritePlus_ORA_AWS/pull/4) in [BhuvanSA/WritePlus_ORA_AWS](https://github.com/BhuvanSA/WritePlus_ORA_AWS)
-4. 💪 Opened PR [#3](https://github.com/BhuvanSA/WritePlus_ORA_AWS/pull/3) in [BhuvanSA/WritePlus_ORA_AWS](https://github.com/BhuvanSA/WritePlus_ORA_AWS)
-5. 🎉 Merged PR [#2](https://github.com/nishith-p-shetty/WritePlus_ORA_Frontend/pull/2) in [nishith-p-shetty/WritePlus_ORA_Frontend](https://github.com/nishith-p-shetty/WritePlus_ORA_Frontend)
+1. 🎉 Merged PR [#1](https://github.com/SidKarthik1437/WritePlus_ORA_Frontend/pull/1) in [SidKarthik1437/WritePlus_ORA_Frontend](https://github.com/SidKarthik1437/WritePlus_ORA_Frontend)
+2. 💪 Opened PR [#1](https://github.com/SidKarthik1437/WritePlus_ORA_Frontend/pull/1) in [SidKarthik1437/WritePlus_ORA_Frontend](https://github.com/SidKarthik1437/WritePlus_ORA_Frontend)
+3. 💪 Opened PR [#8](https://github.com/BhuvanSA/WritePlus_ORA_AWS/pull/8) in [BhuvanSA/WritePlus_ORA_AWS](https://github.com/BhuvanSA/WritePlus_ORA_AWS)
+4. 💪 Opened PR [#7](https://github.com/BhuvanSA/WritePlus_ORA_AWS/pull/7) in [BhuvanSA/WritePlus_ORA_AWS](https://github.com/BhuvanSA/WritePlus_ORA_AWS)
+5. 💪 Opened PR [#6](https://github.com/BhuvanSA/WritePlus_ORA_AWS/pull/6) in [BhuvanSA/WritePlus_ORA_AWS](https://github.com/BhuvanSA/WritePlus_ORA_AWS)
 <!--END_SECTION:activity-->
 
 ---
