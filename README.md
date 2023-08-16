@@ -74,13 +74,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 146 hrs 12 mins
+Total Time: 148 hrs 54 mins
 
-Python                     48 hrs 14 mins  ████████▒░░░░░░░░░░░░░░░░   32.99 %
-JavaScript                 40 hrs 7 mins   ███████░░░░░░░░░░░░░░░░░░   27.45 %
-HTML                       19 hrs 14 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.16 %
-C++                        6 hrs 40 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
-CSS                        5 hrs 38 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+Python                     50 hrs          ████████▒░░░░░░░░░░░░░░░░   33.58 %
+JavaScript                 40 hrs 14 mins  ██████▓░░░░░░░░░░░░░░░░░░   27.02 %
+HTML                       19 hrs 14 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   12.93 %
+C++                        6 hrs 40 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+CSS                        5 hrs 38 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
 ```
 
 <!--END_SECTION:waka-->
