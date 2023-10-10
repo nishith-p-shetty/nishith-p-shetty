@@ -5,7 +5,7 @@
 <!--
 [website]: https://nishithpshetty.tk
 -->
-![](https://visitor-counter.nishithpshetty.tk/api?name=github&operation=show)
+![](https://visitor-counter.nishithpshetty.tk/api?name=github&operation=increment)
 
 ---
 
