@@ -66,7 +66,7 @@
 ---
 
 ## 🏆GitHub Trophies
-![](https://trophy.nishithpshetty.tk/?username=nishith-p-shetty&theme=darkhub&no-frame=true&no-bg=false)
+![](https://github-profile-trophy.vercel.app/?username=nishith-p-shetty&theme=darkhub&no-frame=true&no-bg=false)
 
 ---
 
