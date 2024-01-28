@@ -1,0 +1,24 @@
+name: Update starred repositories
+
+on:
+  schedule:
+  - cron: "0 0 * * *"
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: sarisia/actions-readme-feed@v1
+        with:
+          url: 'https://gh-starred-repos-feed.cheeaun.workers.dev/nishith-p-shetty.rss'
+          file: 'README.md'
+          start_flag: '<!-- starred repos start -->'
+          end_flag: '<!-- starred repos end -->'
+          timezone: 'Asia/Singapore'
+          format: '- [${title}](${url})'
+          max_entry: 15
+      - uses: sarisia/actions-commit@master
