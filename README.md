@@ -96,6 +96,14 @@ CSS                        5 hrs 59 mins   █░░░░░░░░░░░�
 <!--END_SECTION:activity-->
 
 ---
+## 🌟 Recently starred repositories
+
+<!-- starred repos start -->
+<!-- starred repos end -->
+
+See more of [my starred repos](https://github.com/stars/nishith-p-shetty/).
+
+---
 
 # StackOverflow Activity
 
