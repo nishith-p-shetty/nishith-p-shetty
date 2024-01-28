@@ -99,6 +99,19 @@ CSS                        5 hrs 59 mins   █░░░░░░░░░░░�
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [DenverCoder1/readme-typing-svg - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.](https://github.com/DenverCoder1/readme-typing-svg)
+- [DenverCoder1/github-readme-streak-stats - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README](https://github.com/DenverCoder1/github-readme-streak-stats)
+- [Ashutosh00710/github-readme-activity-graph - A dynamically generated activity graph to show your GitHub activities of last 31 days.](https://github.com/Ashutosh00710/github-readme-activity-graph)
+- [anuraghazra/github-readme-stats - :zap: Dynamically generated stats for your github readmes](https://github.com/anuraghazra/github-readme-stats)
+- [massgravel/Microsoft-Activation-Scripts - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.](https://github.com/massgravel/Microsoft-Activation-Scripts)
+- [anubhavpulkit/Open-Source-Events - Collection of Open Source Events and Hackathon's on a monthly basis. Contribute with us by just opening an issue or PR😉.  For contribution in webpage please visit https://github.com/Catalyst-SMVD/OpenSourceEvents-Frontend](https://github.com/anubhavpulkit/Open-Source-Events)
+- [docker-mailserver/docker-mailserver - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.](https://github.com/docker-mailserver/docker-mailserver)
+- [NirantK/awesome-project-ideas - Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas](https://github.com/NirantK/awesome-project-ideas)
+- [dipakkr/A-to-Z-Resources-for-Students - ✅  Curated list of resources for college students ](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
+- [chaharnishant11/BTech-Project - BTech 4th year project](https://github.com/chaharnishant11/BTech-Project)
+- [chaharnishant11/PlacementPrepGuide - Includes all the resources for Core CS fundamentals](https://github.com/chaharnishant11/PlacementPrepGuide)
+- [clnhub/rtl8192eu-linux - Realtek rtl8192eu official Linux driver, versions: 5.2.19.1 (master), 5.6.3.1, 5.6.4 and 5.11.2.1 (default)](https://github.com/clnhub/rtl8192eu-linux)
+- [Mange/rtl8192eu-linux-driver - Drivers for the rtl8192eu chipset for wireless adapters (D-Link DWA-131 rev E1 included!)](https://github.com/Mange/rtl8192eu-linux-driver)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/nishith-p-shetty/).
