@@ -96,6 +96,18 @@ CSS                        5 hrs 59 mins   █░░░░░░░░░░░�
 <!--END_SECTION:activity-->
 
 ---
+
+# StackOverflow Activity
+
+<!-- STACKOVERFLOW:START -->
+- [✘ [ERROR] Could not resolve &quot;async_hooks&quot;](https://stackoverflow.com/questions/75111375/error-could-not-resolve-async-hooks)
+- [Error: Unable to rebuild apk with apktool](https://stackoverflow.com/questions/65509607/error-unable-to-rebuild-apk-with-apktool)
+- [Answer by Nishith P Shetty for The requested path Access is Denied](https://stackoverflow.com/questions/64241896/the-requested-path-access-is-denied/64242800#64242800)
+- [The requested path Access is Denied](https://stackoverflow.com/questions/64241896/the-requested-path-access-is-denied)
+<!-- STACKOVERFLOW:END -->
+
+---
+
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
@@ -118,17 +130,6 @@ See more of [my starred repos](https://github.com/stars/nishith-p-shetty/).
 
 ---
 
-# StackOverflow Activity
-
-<!-- STACKOVERFLOW:START -->
-- [✘ [ERROR] Could not resolve &quot;async_hooks&quot;](https://stackoverflow.com/questions/75111375/error-could-not-resolve-async-hooks)
-- [Error: Unable to rebuild apk with apktool](https://stackoverflow.com/questions/65509607/error-unable-to-rebuild-apk-with-apktool)
-- [Answer by Nishith P Shetty for The requested path Access is Denied](https://stackoverflow.com/questions/64241896/the-requested-path-access-is-denied/64242800#64242800)
-- [The requested path Access is Denied](https://stackoverflow.com/questions/64241896/the-requested-path-access-is-denied)
-<!-- STACKOVERFLOW:END -->
-
----
-
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
@@ -137,6 +138,6 @@ See more of [my starred repos](https://github.com/stars/nishith-p-shetty/).
 - [Globally Extended Live Stream](https://www.youtube.com/watch?v=pwHhUK6PjCY)
 <!-- Latest YOUTUBE Activity:END -->
 
-➡️ [more videos...](https://www.youtube.com/channel/UCEQ_b6AAedG3RuvY6FEk8Kw)
+➡️ [more videos...](https://www.youtube.com/@globallyextended)
 
 ---
