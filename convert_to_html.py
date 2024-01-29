@@ -54,6 +54,7 @@ a, a:visited, a:hover, a:active {
 """
 
 html2 = """
+<p style="text-align: center;">Made with 💜 by <a href="/">Nishith P Shetty.  <img src="https://visitor-ctr.nishithpshetty.tk/api?name=github-stats&operation=increment" alt="visitor-counter"></a></p>
 </body>
 </html>"""
 
