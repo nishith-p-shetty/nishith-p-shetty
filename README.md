@@ -56,7 +56,7 @@
 ---
 
 ## 📊GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=nishith-p-shetty&theme=blue-green&hide_border=true&border_radius=20&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=nishith-p-shetty&theme=blue-green&hide_border=true&border_radius=20&count_private=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true)
 ![](https://streak-stats.demolab.com/?user=nishith-p-shetty&theme=blue-green&hide_border=true&border_radius=20)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nishith-p-shetty&langs_count=100&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=20)
 ![](https://github-readme-activity-graph.vercel.app/graph?username=nishith-p-shetty&bg_color=000000&color=33ccff&line=00ff00&point=ff0000&area=true&hide_border=true)
