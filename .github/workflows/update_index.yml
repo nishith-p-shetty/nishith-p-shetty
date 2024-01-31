@@ -19,7 +19,13 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Check if index.html has changed
+        id: check_changes
+        run: |
+          git diff --exit-code --quiet || echo "::set-output name=changed::true"
+
       - name: Commit and Push Changes
+        if: steps.check_changes.outputs.changed == 'true'
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
