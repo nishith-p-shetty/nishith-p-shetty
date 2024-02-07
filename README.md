@@ -91,7 +91,7 @@ Java                       6 hrs 57 mins   █░░░░░░░░░░░�
 ### ⚡ Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/nishith-p-shetty/flask-feedback-form/pull/11) in [nishith-p-shetty/flask-feedback-form](https://github.com/nishith-p-shetty/flask-feedback-form)
+1. 🎉 Merged PR [#1](https://github.com/nishith-p-shetty/FastAPI-Blog/pull/1) in [nishith-p-shetty/FastAPI-Blog](https://github.com/nishith-p-shetty/FastAPI-Blog)
 2. 🎉 Merged PR [#3](https://github.com/SidKarthik1437/WritePlus_ORA_Frontend/pull/3) in [SidKarthik1437/WritePlus_ORA_Frontend](https://github.com/SidKarthik1437/WritePlus_ORA_Frontend)
 3. 💪 Opened PR [#10](https://github.com/BhuvanSA/WritePlus_ORA_AWS/pull/10) in [BhuvanSA/WritePlus_ORA_AWS](https://github.com/BhuvanSA/WritePlus_ORA_AWS)
 4. 💪 Opened PR [#3](https://github.com/SidKarthik1437/WritePlus_ORA_Frontend/pull/3) in [SidKarthik1437/WritePlus_ORA_Frontend](https://github.com/SidKarthik1437/WritePlus_ORA_Frontend)
