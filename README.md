@@ -91,8 +91,8 @@ Java                       6 hrs 57 mins   █░░░░░░░░░░░�
 ### ⚡ Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/nishith-p-shetty/FastAPI-Blog/pull/1) in [nishith-p-shetty/FastAPI-Blog](https://github.com/nishith-p-shetty/FastAPI-Blog)
-2. 🎉 Merged PR [#3](https://github.com/SidKarthik1437/WritePlus_ORA_Frontend/pull/3) in [SidKarthik1437/WritePlus_ORA_Frontend](https://github.com/SidKarthik1437/WritePlus_ORA_Frontend)
+1. 🎉 Merged PR [#2](https://github.com/nishith-p-shetty/FastAPI-Blog/pull/2) in [nishith-p-shetty/FastAPI-Blog](https://github.com/nishith-p-shetty/FastAPI-Blog)
+2. 🎉 Merged PR [#1](https://github.com/nishith-p-shetty/FastAPI-Blog/pull/1) in [nishith-p-shetty/FastAPI-Blog](https://github.com/nishith-p-shetty/FastAPI-Blog)
 3. 💪 Opened PR [#10](https://github.com/BhuvanSA/WritePlus_ORA_AWS/pull/10) in [BhuvanSA/WritePlus_ORA_AWS](https://github.com/BhuvanSA/WritePlus_ORA_AWS)
 4. 💪 Opened PR [#3](https://github.com/SidKarthik1437/WritePlus_ORA_Frontend/pull/3) in [SidKarthik1437/WritePlus_ORA_Frontend](https://github.com/SidKarthik1437/WritePlus_ORA_Frontend)
 5. 🎉 Merged PR [#4](https://github.com/nishith-p-shetty/WritePlus_ORA_Frontend/pull/4) in [nishith-p-shetty/WritePlus_ORA_Frontend](https://github.com/nishith-p-shetty/WritePlus_ORA_Frontend)
