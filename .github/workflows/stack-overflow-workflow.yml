@@ -3,15 +3,13 @@ on:
   schedule:
     - cron: '0 0 * * *' # runs at every 12AM UTC
   workflow_dispatch:
-permissions:
-  contents: write
   
 jobs:
   update-readme-with-stack-overflow:
     name: Update this repo's README with latest activity from StackOverflow
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "STACKOVERFLOW"
