@@ -1,0 +1,100 @@
+name: All In One
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # runs at every 12AM UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: '⚡ Recent GitHub Activity'
+          MAX_LINES: 10
+
+  update-readme:
+    name: WakaReadme DevMetrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          TIME_RANGE: all_time
+          SHOW_TOTAL: true
+          SHOW_MASKED_TIME: true
+          # following flags are required, only if this is not on
+          # profile readme, remove the leading `#` to use them
+          #GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          #REPOSITORY: <gh_username/gh_username>
+
+  update-readme-with-youtube:
+    name: Update this repo's README with latest videos from YouTube
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "Latest YOUTUBE Activity"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCEQ_b6AAedG3RuvY6FEk8Kw"
+      
+  build-starred-repos:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: sarisia/actions-readme-feed@v1
+        with:
+          url: 'https://gh-starred-repos-feed.cheeaun.workers.dev/nishith-p-shetty.rss'
+          file: 'README.md'
+          start_flag: '<!-- starred repos start -->'
+          end_flag: '<!-- starred repos end -->'
+          timezone: 'Asia/Kolkata'
+          format: '- [${title}](${url})'
+          max_entry: 15
+      - uses: sarisia/actions-commit@master
+
+  # update-readme-with-stack-overflow:
+  #   name: Update this repo's README with latest activity from StackOverflow
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - uses: actions/checkout@v4
+  #     - uses: gautamkrishnar/blog-post-workflow@v1
+  #       with:
+  #         comment_tag_name: "STACKOVERFLOW"
+  #         commit_message: "Updated readme with the latest stackOverflow data"
+  #         feed_list: "https://stackoverflow.com/feeds/user/14085925"
+
+  update_index_html:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Convert README to HTML
+        run: |
+          pip install -r requirements.txt
+          python convert_to_html.py > index.html
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Check if index.html has changed
+        id: check_changes
+        run: |
+          git diff --exit-code --quiet || echo "::set-output name=changed::true"
+
+      - name: Commit and Push Changes
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add index.html
+          git commit -m "Update index.html"
+          git push
