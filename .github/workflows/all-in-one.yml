@@ -24,6 +24,8 @@ jobs:
   update-readme:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
+    needs: build-readme
+
     steps:
       - uses: athul/waka-readme@master
         with:
@@ -33,21 +35,25 @@ jobs:
           SHOW_MASKED_TIME: true
           # following flags are required, only if this is not on
           # profile readme, remove the leading `#` to use them
-          #GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          #REPOSITORY: <gh_username/gh_username>
+          # GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          # REPOSITORY: <gh_username/gh_username>
 
   update-readme-with-youtube:
     name: Update this repo's README with latest videos from YouTube
     runs-on: ubuntu-latest
+    needs: update-readme
+
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "Latest YOUTUBE Activity"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCEQ_b6AAedG3RuvY6FEk8Kw"
-      
+
   build-starred-repos:
     runs-on: ubuntu-latest
+    needs: update-readme-with-youtube
+
     steps:
       - uses: actions/checkout@v2
       - uses: sarisia/actions-readme-feed@v1
@@ -64,6 +70,8 @@ jobs:
   # update-readme-with-stack-overflow:
   #   name: Update this repo's README with latest activity from StackOverflow
   #   runs-on: ubuntu-latest
+  #   needs: build-starred-repos
+  #
   #   steps:
   #     - uses: actions/checkout@v4
   #     - uses: gautamkrishnar/blog-post-workflow@v1
@@ -74,6 +82,9 @@ jobs:
 
   update_index_html:
     runs-on: ubuntu-latest
+    needs: build-starred-repos
+    # needs: update-readme-with-stack-overflow
+
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v2
