@@ -19,4 +19,5 @@ jobs:
           timezone: 'Asia/Kolkata'
           format: '- [${title}](${url})'
           max_entry: 15
-      - uses: sarisia/actions-commit@master
+      # - uses: sarisia/actions-commit@master
+      - uses: nishith-p-shetty/actions-commit@master
