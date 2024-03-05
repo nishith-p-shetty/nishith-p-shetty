@@ -91,11 +91,11 @@ Java                       7 hrs 10 mins   █░░░░░░░░░░░�
 ### ⚡ Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/nishith-p-shetty/flask-feedback-form/pull/17) in [nishith-p-shetty/flask-feedback-form](https://github.com/nishith-p-shetty/flask-feedback-form)
-2. 🎉 Merged PR [#16](https://github.com/nishith-p-shetty/flask-feedback-form/pull/16) in [nishith-p-shetty/flask-feedback-form](https://github.com/nishith-p-shetty/flask-feedback-form)
-3. 🎉 Merged PR [#15](https://github.com/nishith-p-shetty/flask-feedback-form/pull/15) in [nishith-p-shetty/flask-feedback-form](https://github.com/nishith-p-shetty/flask-feedback-form)
-4. 🎉 Merged PR [#14](https://github.com/nishith-p-shetty/flask-feedback-form/pull/14) in [nishith-p-shetty/flask-feedback-form](https://github.com/nishith-p-shetty/flask-feedback-form)
-5. 🎉 Merged PR [#13](https://github.com/nishith-p-shetty/flask-feedback-form/pull/13) in [nishith-p-shetty/flask-feedback-form](https://github.com/nishith-p-shetty/flask-feedback-form)
+1. 🎉 Merged PR [#18](https://github.com/nishith-p-shetty/flask-feedback-form/pull/18) in [nishith-p-shetty/flask-feedback-form](https://github.com/nishith-p-shetty/flask-feedback-form)
+2. 🎉 Merged PR [#17](https://github.com/nishith-p-shetty/flask-feedback-form/pull/17) in [nishith-p-shetty/flask-feedback-form](https://github.com/nishith-p-shetty/flask-feedback-form)
+3. 🎉 Merged PR [#16](https://github.com/nishith-p-shetty/flask-feedback-form/pull/16) in [nishith-p-shetty/flask-feedback-form](https://github.com/nishith-p-shetty/flask-feedback-form)
+4. 🎉 Merged PR [#15](https://github.com/nishith-p-shetty/flask-feedback-form/pull/15) in [nishith-p-shetty/flask-feedback-form](https://github.com/nishith-p-shetty/flask-feedback-form)
+5. 🎉 Merged PR [#14](https://github.com/nishith-p-shetty/flask-feedback-form/pull/14) in [nishith-p-shetty/flask-feedback-form](https://github.com/nishith-p-shetty/flask-feedback-form)
 <!--END_SECTION:activity-->
 
 ---
