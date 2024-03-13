@@ -91,11 +91,11 @@ Java                       7 hrs 26 mins   █░░░░░░░░░░░�
 ### ⚡ Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/nishith-p-shetty/flask-feedback-form/pull/21) in [nishith-p-shetty/flask-feedback-form](https://github.com/nishith-p-shetty/flask-feedback-form)
-2. 🎉 Merged PR [#20](https://github.com/nishith-p-shetty/flask-feedback-form/pull/20) in [nishith-p-shetty/flask-feedback-form](https://github.com/nishith-p-shetty/flask-feedback-form)
-3. 🎉 Merged PR [#19](https://github.com/nishith-p-shetty/flask-feedback-form/pull/19) in [nishith-p-shetty/flask-feedback-form](https://github.com/nishith-p-shetty/flask-feedback-form)
-4. 🗣 Commented on [#19](https://github.com/nishith-p-shetty/flask-feedback-form/pull/19#issuecomment-1979372762) in [nishith-p-shetty/flask-feedback-form](https://github.com/nishith-p-shetty/flask-feedback-form)
-5. 💪 Opened PR [#3](https://github.com/sarisia/actions-commit/pull/3) in [sarisia/actions-commit](https://github.com/sarisia/actions-commit)
+1. 🎉 Merged PR [#1](https://github.com/nishith-p-shetty/HackALeague-2.0/pull/1) in [nishith-p-shetty/HackALeague-2.0](https://github.com/nishith-p-shetty/HackALeague-2.0)
+2. 🎉 Merged PR [#21](https://github.com/nishith-p-shetty/flask-feedback-form/pull/21) in [nishith-p-shetty/flask-feedback-form](https://github.com/nishith-p-shetty/flask-feedback-form)
+3. 🎉 Merged PR [#20](https://github.com/nishith-p-shetty/flask-feedback-form/pull/20) in [nishith-p-shetty/flask-feedback-form](https://github.com/nishith-p-shetty/flask-feedback-form)
+4. 🎉 Merged PR [#19](https://github.com/nishith-p-shetty/flask-feedback-form/pull/19) in [nishith-p-shetty/flask-feedback-form](https://github.com/nishith-p-shetty/flask-feedback-form)
+5. 🗣 Commented on [#19](https://github.com/nishith-p-shetty/flask-feedback-form/pull/19#issuecomment-1979372762) in [nishith-p-shetty/flask-feedback-form](https://github.com/nishith-p-shetty/flask-feedback-form)
 <!--END_SECTION:activity-->
 
 ---
