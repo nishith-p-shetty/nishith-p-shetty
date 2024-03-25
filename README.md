@@ -91,11 +91,11 @@ Java                       7 hrs 26 mins   █░░░░░░░░░░░�
 ### ⚡ Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/nishith-p-shetty/HackALeague-2.0/pull/2) in [nishith-p-shetty/HackALeague-2.0](https://github.com/nishith-p-shetty/HackALeague-2.0)
-2. 🎉 Merged PR [#5](https://github.com/nishith-p-shetty/The-Complete-2023-Web-Development-Bootcamp/pull/5) in [nishith-p-shetty/The-Complete-2023-Web-Development-Bootcamp](https://github.com/nishith-p-shetty/The-Complete-2023-Web-Development-Bootcamp)
-3. 🎉 Merged PR [#1](https://github.com/nishith-p-shetty/HackALeague-2.0/pull/1) in [nishith-p-shetty/HackALeague-2.0](https://github.com/nishith-p-shetty/HackALeague-2.0)
-4. 🎉 Merged PR [#21](https://github.com/nishith-p-shetty/flask-feedback-form/pull/21) in [nishith-p-shetty/flask-feedback-form](https://github.com/nishith-p-shetty/flask-feedback-form)
-5. 🎉 Merged PR [#20](https://github.com/nishith-p-shetty/flask-feedback-form/pull/20) in [nishith-p-shetty/flask-feedback-form](https://github.com/nishith-p-shetty/flask-feedback-form)
+1. 🎉 Merged PR [#6](https://github.com/nishith-p-shetty/The-Complete-2023-Web-Development-Bootcamp/pull/6) in [nishith-p-shetty/The-Complete-2023-Web-Development-Bootcamp](https://github.com/nishith-p-shetty/The-Complete-2023-Web-Development-Bootcamp)
+2. 🎉 Merged PR [#2](https://github.com/nishith-p-shetty/HackALeague-2.0/pull/2) in [nishith-p-shetty/HackALeague-2.0](https://github.com/nishith-p-shetty/HackALeague-2.0)
+3. 🎉 Merged PR [#5](https://github.com/nishith-p-shetty/The-Complete-2023-Web-Development-Bootcamp/pull/5) in [nishith-p-shetty/The-Complete-2023-Web-Development-Bootcamp](https://github.com/nishith-p-shetty/The-Complete-2023-Web-Development-Bootcamp)
+4. 🎉 Merged PR [#1](https://github.com/nishith-p-shetty/HackALeague-2.0/pull/1) in [nishith-p-shetty/HackALeague-2.0](https://github.com/nishith-p-shetty/HackALeague-2.0)
+5. 🎉 Merged PR [#21](https://github.com/nishith-p-shetty/flask-feedback-form/pull/21) in [nishith-p-shetty/flask-feedback-form](https://github.com/nishith-p-shetty/flask-feedback-form)
 <!--END_SECTION:activity-->
 
 ---
