@@ -91,11 +91,11 @@ Java                       7 hrs 26 mins   █░░░░░░░░░░░�
 ### ⚡ Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/nishith-p-shetty/HackALeague-2.0/pull/7) in [nishith-p-shetty/HackALeague-2.0](https://github.com/nishith-p-shetty/HackALeague-2.0)
-2. 🎉 Merged PR [#1](https://github.com/nishith-p-shetty/flask-blog/pull/1) in [nishith-p-shetty/flask-blog](https://github.com/nishith-p-shetty/flask-blog)
-3. 🎉 Merged PR [#5](https://github.com/nishith-p-shetty/HackALeague-2.0/pull/5) in [nishith-p-shetty/HackALeague-2.0](https://github.com/nishith-p-shetty/HackALeague-2.0)
-4. 🎉 Merged PR [#6](https://github.com/nishith-p-shetty/HackALeague-2.0/pull/6) in [nishith-p-shetty/HackALeague-2.0](https://github.com/nishith-p-shetty/HackALeague-2.0)
-5. 🎉 Merged PR [#7](https://github.com/nishith-p-shetty/CS50P/pull/7) in [nishith-p-shetty/CS50P](https://github.com/nishith-p-shetty/CS50P)
+1. 🎉 Merged PR [#4](https://github.com/nishith-p-shetty/FastAPI-Blog/pull/4) in [nishith-p-shetty/FastAPI-Blog](https://github.com/nishith-p-shetty/FastAPI-Blog)
+2. 🎉 Merged PR [#7](https://github.com/nishith-p-shetty/HackALeague-2.0/pull/7) in [nishith-p-shetty/HackALeague-2.0](https://github.com/nishith-p-shetty/HackALeague-2.0)
+3. 🎉 Merged PR [#1](https://github.com/nishith-p-shetty/flask-blog/pull/1) in [nishith-p-shetty/flask-blog](https://github.com/nishith-p-shetty/flask-blog)
+4. 🎉 Merged PR [#5](https://github.com/nishith-p-shetty/HackALeague-2.0/pull/5) in [nishith-p-shetty/HackALeague-2.0](https://github.com/nishith-p-shetty/HackALeague-2.0)
+5. 🎉 Merged PR [#6](https://github.com/nishith-p-shetty/HackALeague-2.0/pull/6) in [nishith-p-shetty/HackALeague-2.0](https://github.com/nishith-p-shetty/HackALeague-2.0)
 <!--END_SECTION:activity-->
 
 ---
