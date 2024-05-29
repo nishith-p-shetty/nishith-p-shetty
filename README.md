@@ -91,11 +91,11 @@ Java                       7 hrs 26 mins   █░░░░░░░░░░░�
 ### ⚡ Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/nishith-p-shetty/The-Complete-2023-Web-Development-Bootcamp/pull/19) in [nishith-p-shetty/The-Complete-2023-Web-Development-Bootcamp](https://github.com/nishith-p-shetty/The-Complete-2023-Web-Development-Bootcamp)
-2. 🎉 Merged PR [#22](https://github.com/nishith-p-shetty/The-Complete-2023-Web-Development-Bootcamp/pull/22) in [nishith-p-shetty/The-Complete-2023-Web-Development-Bootcamp](https://github.com/nishith-p-shetty/The-Complete-2023-Web-Development-Bootcamp)
-3. 🎉 Merged PR [#21](https://github.com/nishith-p-shetty/The-Complete-2023-Web-Development-Bootcamp/pull/21) in [nishith-p-shetty/The-Complete-2023-Web-Development-Bootcamp](https://github.com/nishith-p-shetty/The-Complete-2023-Web-Development-Bootcamp)
-4. 🎉 Merged PR [#20](https://github.com/nishith-p-shetty/The-Complete-2023-Web-Development-Bootcamp/pull/20) in [nishith-p-shetty/The-Complete-2023-Web-Development-Bootcamp](https://github.com/nishith-p-shetty/The-Complete-2023-Web-Development-Bootcamp)
-5. 🎉 Merged PR [#23](https://github.com/nishith-p-shetty/The-Complete-2023-Web-Development-Bootcamp/pull/23) in [nishith-p-shetty/The-Complete-2023-Web-Development-Bootcamp](https://github.com/nishith-p-shetty/The-Complete-2023-Web-Development-Bootcamp)
+1. 🎉 Merged PR [#2](https://github.com/nishith-p-shetty/insta-user-list/pull/2) in [nishith-p-shetty/insta-user-list](https://github.com/nishith-p-shetty/insta-user-list)
+2. 🎉 Merged PR [#2](https://github.com/nishith-p-shetty/nishith-p-shetty/pull/2) in [nishith-p-shetty/nishith-p-shetty](https://github.com/nishith-p-shetty/nishith-p-shetty)
+3. 🎉 Merged PR [#9](https://github.com/nishith-p-shetty/CS50P/pull/9) in [nishith-p-shetty/CS50P](https://github.com/nishith-p-shetty/CS50P)
+4. 🎉 Merged PR [#2](https://github.com/nishith-p-shetty/VTU-Results-Bot/pull/2) in [nishith-p-shetty/VTU-Results-Bot](https://github.com/nishith-p-shetty/VTU-Results-Bot)
+5. 🎉 Merged PR [#10](https://github.com/nishith-p-shetty/HackALeague-2.0/pull/10) in [nishith-p-shetty/HackALeague-2.0](https://github.com/nishith-p-shetty/HackALeague-2.0)
 <!--END_SECTION:activity-->
 
 ---
