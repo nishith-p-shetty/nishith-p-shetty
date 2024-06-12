@@ -91,11 +91,11 @@ Java                       7 hrs 26 mins   █░░░░░░░░░░░�
 ### ⚡ Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/nishith-p-shetty/insta-user-list/pull/2) in [nishith-p-shetty/insta-user-list](https://github.com/nishith-p-shetty/insta-user-list)
-2. 🎉 Merged PR [#2](https://github.com/nishith-p-shetty/nishith-p-shetty/pull/2) in [nishith-p-shetty/nishith-p-shetty](https://github.com/nishith-p-shetty/nishith-p-shetty)
-3. 🎉 Merged PR [#9](https://github.com/nishith-p-shetty/CS50P/pull/9) in [nishith-p-shetty/CS50P](https://github.com/nishith-p-shetty/CS50P)
-4. 🎉 Merged PR [#2](https://github.com/nishith-p-shetty/VTU-Results-Bot/pull/2) in [nishith-p-shetty/VTU-Results-Bot](https://github.com/nishith-p-shetty/VTU-Results-Bot)
-5. 🎉 Merged PR [#10](https://github.com/nishith-p-shetty/HackALeague-2.0/pull/10) in [nishith-p-shetty/HackALeague-2.0](https://github.com/nishith-p-shetty/HackALeague-2.0)
+1. 🎉 Merged PR [#11](https://github.com/nishith-p-shetty/HackALeague-2.0/pull/11) in [nishith-p-shetty/HackALeague-2.0](https://github.com/nishith-p-shetty/HackALeague-2.0)
+2. 🎉 Merged PR [#3](https://github.com/nishith-p-shetty/insta-user-list/pull/3) in [nishith-p-shetty/insta-user-list](https://github.com/nishith-p-shetty/insta-user-list)
+3. 🎉 Merged PR [#2](https://github.com/nishith-p-shetty/insta-user-list/pull/2) in [nishith-p-shetty/insta-user-list](https://github.com/nishith-p-shetty/insta-user-list)
+4. 🎉 Merged PR [#2](https://github.com/nishith-p-shetty/nishith-p-shetty/pull/2) in [nishith-p-shetty/nishith-p-shetty](https://github.com/nishith-p-shetty/nishith-p-shetty)
+5. 🎉 Merged PR [#9](https://github.com/nishith-p-shetty/CS50P/pull/9) in [nishith-p-shetty/CS50P](https://github.com/nishith-p-shetty/CS50P)
 <!--END_SECTION:activity-->
 
 ---
