@@ -1,5 +1,5 @@
 ---
-![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&reversal=false&section=header)
+![](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=false&section=header)
 ---
 <!--
 ### Hi there, I'm Shetty - aka [Nishith P Shetty][website] 👋
@@ -147,5 +147,5 @@ See more of [my starred repos](https://github.com/stars/nishith-p-shetty/).
 ➡️ [more videos...](https://www.youtube.com/@globallyextended)
 
 ---
-![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&reversal=false&section=footer)
+![](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=false&section=footer)
 ---
