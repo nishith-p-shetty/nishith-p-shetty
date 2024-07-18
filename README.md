@@ -94,11 +94,11 @@ Java                       7 hrs 26 mins   ▓░░░░░░░░░░░�
 ### ⚡ Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/nishith-p-shetty/The-Complete-2023-Web-Development-Bootcamp/pull/24) in [nishith-p-shetty/The-Complete-2023-Web-Development-Bootcamp](https://github.com/nishith-p-shetty/The-Complete-2023-Web-Development-Bootcamp)
-2. 🎉 Merged PR [#13](https://github.com/nishith-p-shetty/HackALeague-2.0/pull/13) in [nishith-p-shetty/HackALeague-2.0](https://github.com/nishith-p-shetty/HackALeague-2.0)
-3. 🎉 Merged PR [#12](https://github.com/nishith-p-shetty/HackALeague-2.0/pull/12) in [nishith-p-shetty/HackALeague-2.0](https://github.com/nishith-p-shetty/HackALeague-2.0)
-4. 🎉 Merged PR [#14](https://github.com/nishith-p-shetty/HackALeague-2.0/pull/14) in [nishith-p-shetty/HackALeague-2.0](https://github.com/nishith-p-shetty/HackALeague-2.0)
-5. 🎉 Merged PR [#3](https://github.com/nishith-p-shetty/VTU-Results-Bot/pull/3) in [nishith-p-shetty/VTU-Results-Bot](https://github.com/nishith-p-shetty/VTU-Results-Bot)
+1. 🎉 Merged PR [#24](https://github.com/nishith-p-shetty/flask-feedback-form/pull/24) in [nishith-p-shetty/flask-feedback-form](https://github.com/nishith-p-shetty/flask-feedback-form)
+2. 🎉 Merged PR [#24](https://github.com/nishith-p-shetty/The-Complete-2023-Web-Development-Bootcamp/pull/24) in [nishith-p-shetty/The-Complete-2023-Web-Development-Bootcamp](https://github.com/nishith-p-shetty/The-Complete-2023-Web-Development-Bootcamp)
+3. 🎉 Merged PR [#13](https://github.com/nishith-p-shetty/HackALeague-2.0/pull/13) in [nishith-p-shetty/HackALeague-2.0](https://github.com/nishith-p-shetty/HackALeague-2.0)
+4. 🎉 Merged PR [#12](https://github.com/nishith-p-shetty/HackALeague-2.0/pull/12) in [nishith-p-shetty/HackALeague-2.0](https://github.com/nishith-p-shetty/HackALeague-2.0)
+5. 🎉 Merged PR [#14](https://github.com/nishith-p-shetty/HackALeague-2.0/pull/14) in [nishith-p-shetty/HackALeague-2.0](https://github.com/nishith-p-shetty/HackALeague-2.0)
 <!--END_SECTION:activity-->
 
 ---
