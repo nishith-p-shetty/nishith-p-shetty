@@ -94,11 +94,11 @@ Other                      7 hrs 39 mins   ▓░░░░░░░░░░░�
 ### ⚡ Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/nishith-p-shetty/HackALeague-2.0/pull/20) in [nishith-p-shetty/HackALeague-2.0](https://github.com/nishith-p-shetty/HackALeague-2.0)
-2. 🎉 Merged PR [#19](https://github.com/nishith-p-shetty/HackALeague-2.0/pull/19) in [nishith-p-shetty/HackALeague-2.0](https://github.com/nishith-p-shetty/HackALeague-2.0)
-3. 🎉 Merged PR [#17](https://github.com/nishith-p-shetty/HackALeague-2.0/pull/17) in [nishith-p-shetty/HackALeague-2.0](https://github.com/nishith-p-shetty/HackALeague-2.0)
-4. 🎉 Merged PR [#18](https://github.com/nishith-p-shetty/HackALeague-2.0/pull/18) in [nishith-p-shetty/HackALeague-2.0](https://github.com/nishith-p-shetty/HackALeague-2.0)
-5. 🎉 Merged PR [#16](https://github.com/nishith-p-shetty/HackALeague-2.0/pull/16) in [nishith-p-shetty/HackALeague-2.0](https://github.com/nishith-p-shetty/HackALeague-2.0)
+1. 🎉 Merged PR [#6](https://github.com/nishith-p-shetty/insta-user-list/pull/6) in [nishith-p-shetty/insta-user-list](https://github.com/nishith-p-shetty/insta-user-list)
+2. 🎉 Merged PR [#20](https://github.com/nishith-p-shetty/HackALeague-2.0/pull/20) in [nishith-p-shetty/HackALeague-2.0](https://github.com/nishith-p-shetty/HackALeague-2.0)
+3. 🎉 Merged PR [#19](https://github.com/nishith-p-shetty/HackALeague-2.0/pull/19) in [nishith-p-shetty/HackALeague-2.0](https://github.com/nishith-p-shetty/HackALeague-2.0)
+4. 🎉 Merged PR [#17](https://github.com/nishith-p-shetty/HackALeague-2.0/pull/17) in [nishith-p-shetty/HackALeague-2.0](https://github.com/nishith-p-shetty/HackALeague-2.0)
+5. 🎉 Merged PR [#18](https://github.com/nishith-p-shetty/HackALeague-2.0/pull/18) in [nishith-p-shetty/HackALeague-2.0](https://github.com/nishith-p-shetty/HackALeague-2.0)
 <!--END_SECTION:activity-->
 
 ---
