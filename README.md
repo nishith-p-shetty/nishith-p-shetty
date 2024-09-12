@@ -4,9 +4,9 @@
 <!--
 ### Hi there, I'm Shetty - aka [Nishith P Shetty][website] 👋
 -->
-[![Greetings](https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=1000&pause=1000&color=00FF00&center=true&vCenter=true&width=550&lines=Hi+there%2C+I%27m+Shetty+-+aka+Nishith+P+Shetty+%F0%9F%91%8B)](https://nishithpshetty.tk)
+[![Greetings](https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=1000&pause=1000&color=00FF00&center=true&vCenter=true&width=550&lines=Hi+there%2C+I%27m+Shetty+-+aka+Nishith+P+Shetty+%F0%9F%91%8B)](https://www.nishithpshetty.com/)
 <!--
-[website]: https://nishithpshetty.tk
+[website]: https://www.nishithpshetty.com/
 -->
 ![](https://visitor-ctr.nishithpshetty.tk/api?name=github&operation=increment)
 
@@ -38,7 +38,7 @@
 
 ## 🌐Socials
 <p align="left">
-<a href="https://nishithpshetty.tk" target="blank"><img src="https://img.shields.io/website?label=nishithpshetty.tk&style=for-the-badge&url=https%3A%2F%2Fnishithpshetty.tk" alt="nishithpshetty.tk" /></a>
+<a href="https://www.nishithpshetty.com/" target="blank"><img src="https://img.shields.io/website?label=www.nishithpshetty.com&style=for-the-badge&url=https%3A%2F%2Fwww.nishithpshetty.com/" alt="www.nishithpshetty.com/" /></a>
 <a href="https://twitter.com/nishithpshetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nishithpshetty" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nishith-p-shetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishith-p-shetty" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14085925" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14085925" height="30" width="40" /></a>
