@@ -117,6 +117,7 @@ Other                      8 hrs 31 mins   ▓░░░░░░░░░░░�
 ### 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [umami-software/umami - Umami is a simple, fast, privacy-focused alternative to Google Analytics.](https://github.com/umami-software/umami)
 - [DenverCoder1/readme-typing-svg - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.](https://github.com/DenverCoder1/readme-typing-svg)
 - [DenverCoder1/github-readme-streak-stats - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README](https://github.com/DenverCoder1/github-readme-streak-stats)
 - [Ashutosh00710/github-readme-activity-graph - A dynamically generated activity graph to show your GitHub activities of last 31 days.](https://github.com/Ashutosh00710/github-readme-activity-graph)
