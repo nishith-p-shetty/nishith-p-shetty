@@ -117,14 +117,8 @@ Other                      8 hrs 31 mins   ▓░░░░░░░░░░░�
 ### 🌟 Recently starred repositories
 
 <!-- starred repos start -->
-- [umami-software/umami - Umami is a simple, fast, privacy-focused alternative to Google Analytics.](https://github.com/umami-software/umami)
-- [DenverCoder1/readme-typing-svg - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.](https://github.com/DenverCoder1/readme-typing-svg)
-- [DenverCoder1/github-readme-streak-stats - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README](https://github.com/DenverCoder1/github-readme-streak-stats)
-- [Ashutosh00710/github-readme-activity-graph - A dynamically generated activity graph to show your GitHub activities of last 31 days.](https://github.com/Ashutosh00710/github-readme-activity-graph)
-- [anuraghazra/github-readme-stats - :zap: Dynamically generated stats for your github readmes](https://github.com/anuraghazra/github-readme-stats)
 - [massgravel/Microsoft-Activation-Scripts - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.](https://github.com/massgravel/Microsoft-Activation-Scripts)
 - [anubhavpulkit/Open-Source-Events - Collection of Open Source Events and Hackathon's on a monthly basis. Contribute with us by just opening an issue or PR😉.  For contribution in webpage please visit https://github.com/Catalyst-SMVD/OpenSourceEvents-Frontend](https://github.com/anubhavpulkit/Open-Source-Events)
-- [docker-mailserver/docker-mailserver - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.](https://github.com/docker-mailserver/docker-mailserver)
 - [NirantK/awesome-project-ideas - Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas](https://github.com/NirantK/awesome-project-ideas)
 - [dipakkr/A-to-Z-Resources-for-Students - ✅  Curated list of resources for college students ](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
 - [chaharnishant11/BTech-Project - BTech 4th year project](https://github.com/chaharnishant11/BTech-Project)
