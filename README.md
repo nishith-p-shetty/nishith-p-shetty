@@ -15,7 +15,7 @@
 # I'm a Dev.🧑‍💻, and Etc.😂...!!
 * 🌱 I’m currently learning everything 🤣
 * 👯 I’m looking to collaborate with other devolopers
-* 🥅 2024 Goals: Contribute more to Open Source projects
+* 🥅 2025 Goals: Contribute more to Open Source projects
 * ⚡ Fun fact: I play guitar🎸 / piano🎹...
 
 ---
