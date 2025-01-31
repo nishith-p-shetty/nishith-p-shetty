@@ -117,6 +117,10 @@ Other                      8 hrs 40 mins   ▓░░░░░░░░░░░�
 ### 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [coollabsio/coolify - An open-source & self-hostable Heroku / Netlify / Vercel alternative.](https://github.com/coollabsio/coolify)
+- [appwrite/appwrite - Your backend, minus the hassle.](https://github.com/appwrite/appwrite)
+- [supabase/supabase - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.](https://github.com/supabase/supabase)
+- [strapi/strapi - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.](https://github.com/strapi/strapi)
 - [massgravel/Microsoft-Activation-Scripts - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.](https://github.com/massgravel/Microsoft-Activation-Scripts)
 - [anubhavpulkit/Open-Source-Events - Collection of Open Source Events and Hackathon's on a monthly basis. Contribute with us by just opening an issue or PR😉.  For contribution in webpage please visit https://github.com/Catalyst-SMVD/OpenSourceEvents-Frontend](https://github.com/anubhavpulkit/Open-Source-Events)
 - [NirantK/awesome-project-ideas - Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas](https://github.com/NirantK/awesome-project-ideas)
