@@ -94,8 +94,8 @@ C++                        8 hrs 59 mins   ▓░░░░░░░░░░░�
 ### ⚡ Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/nishith-p-shetty/The-Complete-2023-Web-Development-Bootcamp/pull/27) in [nishith-p-shetty/The-Complete-2023-Web-Development-Bootcamp](https://github.com/nishith-p-shetty/The-Complete-2023-Web-Development-Bootcamp)
-2. 🎉 Merged PR [#11](https://github.com/nishith-p-shetty/react_project/pull/11) in [nishith-p-shetty/react_project](https://github.com/nishith-p-shetty/react_project)
+1. ❌ Closed PR [#19275](https://github.com/is-a-dev/register/pull/19275) in [is-a-dev/register](https://github.com/is-a-dev/register)
+2. 💪 Opened PR [#19275](https://github.com/is-a-dev/register/pull/19275) in [is-a-dev/register](https://github.com/is-a-dev/register)
 3. 🎉 Merged PR [#2](https://github.com/nishith-p-shetty/nishithpshetty.com/pull/2) in [nishith-p-shetty/nishithpshetty.com](https://github.com/nishith-p-shetty/nishithpshetty.com)
 4. 🎉 Merged PR [#26](https://github.com/nishith-p-shetty/flask-feedback-form/pull/26) in [nishith-p-shetty/flask-feedback-form](https://github.com/nishith-p-shetty/flask-feedback-form)
 5. 🎉 Merged PR [#10](https://github.com/nishith-p-shetty/react_project/pull/10) in [nishith-p-shetty/react_project](https://github.com/nishith-p-shetty/react_project)
