@@ -94,8 +94,8 @@ Other                      10 hrs 2 mins   ▓░░░░░░░░░░░�
 ### ⚡ Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/nishith-p-shetty/nishith-p-shetty/pull/5) in [nishith-p-shetty/nishith-p-shetty](https://github.com/nishith-p-shetty/nishith-p-shetty)
-2. 💪 Opened PR [#19275](https://github.com/is-a-dev/register/pull/19275) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. 🎉 Merged PR [#6](https://github.com/nishith-p-shetty/nishith-p-shetty/pull/6) in [nishith-p-shetty/nishith-p-shetty](https://github.com/nishith-p-shetty/nishith-p-shetty)
+2. 🎉 Merged PR [#5](https://github.com/nishith-p-shetty/nishith-p-shetty/pull/5) in [nishith-p-shetty/nishith-p-shetty](https://github.com/nishith-p-shetty/nishith-p-shetty)
 3. 🎉 Merged PR [#2](https://github.com/nishith-p-shetty/nishithpshetty.com/pull/2) in [nishith-p-shetty/nishithpshetty.com](https://github.com/nishith-p-shetty/nishithpshetty.com)
 4. 🎉 Merged PR [#26](https://github.com/nishith-p-shetty/flask-feedback-form/pull/26) in [nishith-p-shetty/flask-feedback-form](https://github.com/nishith-p-shetty/flask-feedback-form)
 5. 🎉 Merged PR [#10](https://github.com/nishith-p-shetty/react_project/pull/10) in [nishith-p-shetty/react_project](https://github.com/nishith-p-shetty/react_project)
