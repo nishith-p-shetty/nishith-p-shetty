@@ -128,7 +128,7 @@ Other                      10 hrs 3 mins   ▓░░░░░░░░░░░�
 - [dipakkr/A-to-Z-Resources-for-Students - ✅  Curated list of resources for college students ](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
 - [chaharnishant11/BTech-Project - BTech 4th year project](https://github.com/chaharnishant11/BTech-Project)
 - [chaharnishant11/PlacementPrepGuide - Includes all the resources for Core CS fundamentals](https://github.com/chaharnishant11/PlacementPrepGuide)
-- [clnhub/rtl8192eu-linux - Realtek rtl8192eu official Linux driver, versions: 5.2.19.1 (master), 5.6.3.1, 5.6.4 and 5.11.2.1 (default)](https://github.com/clnhub/rtl8192eu-linux)
+- [clnhub/rtl8192eu-linux - Realtek rtl8192eu official Linux driver, versions: 5.2.19.1 (master), 5.6.3.1, 5.6.4, 5.11.2.1 and 5.11.2.3 (default)](https://github.com/clnhub/rtl8192eu-linux)
 - [Mange/rtl8192eu-linux-driver - Drivers for the rtl8192eu chipset for wireless adapters (D-Link DWA-131 rev E1 included!)](https://github.com/Mange/rtl8192eu-linux-driver)
 <!-- starred repos end -->
 
