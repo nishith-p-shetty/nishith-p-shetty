@@ -119,10 +119,10 @@ Other                      10 hrs 3 mins   ▓░░░░░░░░░░░�
 <!-- starred repos start -->
 - [9001/copyparty - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps](https://github.com/9001/copyparty)
 - [coollabsio/coolify - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.](https://github.com/coollabsio/coolify)
-- [appwrite/appwrite - Build like a team of hundreds_](https://github.com/appwrite/appwrite)
+- [appwrite/appwrite - The developers' cloud](https://github.com/appwrite/appwrite)
 - [supabase/supabase - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.](https://github.com/supabase/supabase)
 - [strapi/strapi - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.](https://github.com/strapi/strapi)
-- [massgravel/Microsoft-Activation-Scripts - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.](https://github.com/massgravel/Microsoft-Activation-Scripts)
+- [massgravel/Microsoft-Activation-Scripts - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.](https://github.com/massgravel/Microsoft-Activation-Scripts)
 - [anubhavpulkit/Open-Source-Events - Collection of Open Source Events and Hackathon's on a monthly basis. Contribute with us by just opening an issue or PR😉.  For contribution in webpage please visit https://github.com/Catalyst-SMVD/OpenSourceEvents-Frontend](https://github.com/anubhavpulkit/Open-Source-Events)
 - [NirantK/awesome-project-ideas - Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas](https://github.com/NirantK/awesome-project-ideas)
 - [dipakkr/A-to-Z-Resources-for-Students - ✅  Curated list of resources for college students ](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
