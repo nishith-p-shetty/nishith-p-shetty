@@ -22,16 +22,16 @@
 
 ## 📘 My top open source projects
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=nishith-p-shetty&repo=visitor-counter&theme=blue-green&hide_border=true&border_radius=20&show_icons=true)](https://github.com/nishith-p-shetty/visitor-counter)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=nishith-p-shetty&repo=todo-task&theme=blue-green&hide_border=true&border_radius=20&show_icons=true)](https://github.com/nishith-p-shetty/todo-task)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=nishith-p-shetty&repo=insta-user-list&theme=blue-green&hide_border=true&border_radius=20&show_icons=true)](https://github.com/nishith-p-shetty/insta-user-list)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=nishith-p-shetty&repo=YT-ShortsToLongForm&theme=blue-green&hide_border=true&border_radius=20&show_icons=true)](https://github.com/nishith-p-shetty/YT-ShortsToLongForm)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=nishith-p-shetty&repo=Matrix&theme=blue-green&hide_border=true&border_radius=20&show_icons=true)](https://github.com/nishith-p-shetty/Matrix)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=nishith-p-shetty&repo=Live-Group-Chat&theme=blue-green&hide_border=true&border_radius=20&show_icons=true)](https://github.com/nishith-p-shetty/Live-Group-Chat)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=nishith-p-shetty&repo=flask-blog&theme=blue-green&hide_border=true&border_radius=20&show_icons=true)](https://github.com/nishith-p-shetty/flask-blog)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=nishith-p-shetty&repo=VTU-Results-Bot&theme=blue-green&hide_border=true&border_radius=20&show_icons=true)](https://github.com/nishith-p-shetty/VTU-Results-Bot)
+[![](https://github-readme-stats-omega-seven-23.vercel.app/api/pin/?username=nishith-p-shetty&repo=visitor-counter&theme=blue-green&hide_border=true&border_radius=20&show_icons=true)](https://github.com/nishith-p-shetty/visitor-counter)
+[![](https://github-readme-stats-omega-seven-23.vercel.app/api/pin/?username=nishith-p-shetty&repo=todo-task&theme=blue-green&hide_border=true&border_radius=20&show_icons=true)](https://github.com/nishith-p-shetty/todo-task)
+[![](https://github-readme-stats-omega-seven-23.vercel.app/api/pin/?username=nishith-p-shetty&repo=insta-user-list&theme=blue-green&hide_border=true&border_radius=20&show_icons=true)](https://github.com/nishith-p-shetty/insta-user-list)
+[![](https://github-readme-stats-omega-seven-23.vercel.app/api/pin/?username=nishith-p-shetty&repo=YT-ShortsToLongForm&theme=blue-green&hide_border=true&border_radius=20&show_icons=true)](https://github.com/nishith-p-shetty/YT-ShortsToLongForm)
+[![](https://github-readme-stats-omega-seven-23.vercel.app/api/pin/?username=nishith-p-shetty&repo=Matrix&theme=blue-green&hide_border=true&border_radius=20&show_icons=true)](https://github.com/nishith-p-shetty/Matrix)
+[![](https://github-readme-stats-omega-seven-23.vercel.app/api/pin/?username=nishith-p-shetty&repo=Live-Group-Chat&theme=blue-green&hide_border=true&border_radius=20&show_icons=true)](https://github.com/nishith-p-shetty/Live-Group-Chat)
+[![](https://github-readme-stats-omega-seven-23.vercel.app/api/pin/?username=nishith-p-shetty&repo=flask-blog&theme=blue-green&hide_border=true&border_radius=20&show_icons=true)](https://github.com/nishith-p-shetty/flask-blog)
+[![](https://github-readme-stats-omega-seven-23.vercel.app/api/pin/?username=nishith-p-shetty&repo=VTU-Results-Bot&theme=blue-green&hide_border=true&border_radius=20&show_icons=true)](https://github.com/nishith-p-shetty/VTU-Results-Bot)
 <!--
-[![](https://github-readme-stats.vercel.app/api/pin/?username=nishith-p-shetty&repo=GAT-Results-Bot&theme=blue-green&hide_border=true&border_radius=20&show_icons=true)](https://github.com/nishith-p-shetty/GAT-Results-Bot)
+[![](https://github-readme-stats-omega-seven-23.vercel.app/api/pin/?username=nishith-p-shetty&repo=GAT-Results-Bot&theme=blue-green&hide_border=true&border_radius=20&show_icons=true)](https://github.com/nishith-p-shetty/GAT-Results-Bot)
 -->
 
 ---
@@ -59,9 +59,9 @@
 ---
 
 ## 📊GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=nishith-p-shetty&theme=blue-green&hide_border=true&border_radius=20&count_private=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true)
+![](https://github-readme-stats-omega-seven-23.vercel.app/api?username=nishith-p-shetty&theme=blue-green&hide_border=true&border_radius=20&count_private=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true)
 ![](https://streak-stats.demolab.com/?user=nishith-p-shetty&theme=blue-green&hide_border=true&border_radius=20)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nishith-p-shetty&langs_count=100&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=20)
+![](https://github-readme-stats-omega-seven-23.vercel.app/api/top-langs/?username=nishith-p-shetty&langs_count=100&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=20)
 ![](https://github-readme-activity-graph.vercel.app/graph?username=nishith-p-shetty&bg_color=000000&color=33ccff&line=00ff00&point=ff0000&area=true&hide_border=true)
 
 ---
@@ -87,7 +87,7 @@ Other                      10 hrs 10 mins  ▓░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=nishith_p_shetty&theme=blue-green&hide_border=true&border_radius=20)
+![](https://github-readme-stats-omega-seven-23.vercel.app/api/wakatime?username=nishith_p_shetty&theme=blue-green&hide_border=true&border_radius=20)
 
 ---
 
