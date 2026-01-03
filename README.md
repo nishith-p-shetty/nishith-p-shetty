@@ -117,7 +117,7 @@ Other                      10 hrs 56 mins  ▓░░░░░░░░░░░�
 ### 🌟 Recently starred repositories
 
 <!-- starred repos start -->
-- [9001/copyparty - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps](https://github.com/9001/copyparty)
+- [9001/copyparty - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file](https://github.com/9001/copyparty)
 - [coollabsio/coolify - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.](https://github.com/coollabsio/coolify)
 - [appwrite/appwrite - Appwrite® - The developers' cloud](https://github.com/appwrite/appwrite)
 - [supabase/supabase - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.](https://github.com/supabase/supabase)
