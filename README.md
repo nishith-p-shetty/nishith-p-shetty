@@ -125,7 +125,7 @@ Other                      11 hrs                ▓░░░░░░░░░�
 - [massgravel/Microsoft-Activation-Scripts - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.](https://github.com/massgravel/Microsoft-Activation-Scripts)
 - [anubhavpulkit/Open-Source-Events - Collection of Open Source Events and Hackathon's on a monthly basis. Contribute with us by just opening an issue or PR😉.  For contribution in webpage please visit https://github.com/Catalyst-SMVD/OpenSourceEvents-Frontend](https://github.com/anubhavpulkit/Open-Source-Events)
 - [NirantK/awesome-project-ideas - Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas](https://github.com/NirantK/awesome-project-ideas)
-- [dipakkr/A-to-Z-Resources-for-Students - ✅  Curated list of resources for college students ](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
+- [dipakkr/A-to-Z-Resources-for-Students - ✅  Curated list of resources for developers ](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
 - [chaharnishant11/BTech-Project - BTech 4th year project](https://github.com/chaharnishant11/BTech-Project)
 - [chaharnishant11/PlacementPrepGuide - Includes all the resources for Core CS fundamentals](https://github.com/chaharnishant11/PlacementPrepGuide)
 - [clnhub/rtl8192eu-linux - Realtek rtl8192eu official Linux driver, versions: 5.2.19.1 (master), 5.6.3.1, 5.6.4, 5.11.2.1 and 5.11.2.3 (default)](https://github.com/clnhub/rtl8192eu-linux)
