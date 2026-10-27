@@ -118,14 +118,14 @@ Other                      12 hrs 19 mins        ▓░░░░░░░░░�
 
 <!-- starred repos start -->
 - [9001/copyparty - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file](https://github.com/9001/copyparty)
-- [coollabsio/coolify - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.](https://github.com/coollabsio/coolify)
-- [appwrite/appwrite - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more](https://github.com/appwrite/appwrite)
+- [coollabsio/coolify - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.](https://github.com/coollabsio/coolify)
+- [appwrite/appwrite - The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more](https://github.com/appwrite/appwrite)
 - [supabase/supabase - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.](https://github.com/supabase/supabase)
 - [strapi/strapi - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.](https://github.com/strapi/strapi)
 - [massgravel/Microsoft-Activation-Scripts - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.](https://github.com/massgravel/Microsoft-Activation-Scripts)
 - [anubhavpulkit/Open-Source-Events - Collection of Open Source Events and Hackathon's on a monthly basis. Contribute with us by just opening an issue or PR😉.  For contribution in webpage please visit https://github.com/Catalyst-SMVD/OpenSourceEvents-Frontend](https://github.com/anubhavpulkit/Open-Source-Events)
 - [NirantK/awesome-project-ideas - Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas](https://github.com/NirantK/awesome-project-ideas)
-- [dipakkr/A-to-Z-Resources-for-Students - ✅  Curated list of resources for developers ](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
+- [dipakkr/awesome-ai-engineering - 🚀 A curated collection of AI engineering resources, roadmaps, tools, and projects covering LLMs, RAG, AI Agents, MCP, fine-tuning, evaluations, and production AI systems.](https://github.com/dipakkr/awesome-ai-engineering)
 - [chaharnishant11/BTech-Project - BTech 4th year project](https://github.com/chaharnishant11/BTech-Project)
 - [chaharnishant11/PlacementPrepGuide - Includes all the resources for Core CS fundamentals](https://github.com/chaharnishant11/PlacementPrepGuide)
 - [clnhub/rtl8192eu-linux - Realtek rtl8192eu official Linux driver, versions: 5.2.19.1 (master), 5.6.3.1, 5.6.4, 5.11.2.1 and 5.11.2.3 (default)](https://github.com/clnhub/rtl8192eu-linux)
